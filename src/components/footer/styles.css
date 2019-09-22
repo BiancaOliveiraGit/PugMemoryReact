@@ -1,0 +1,25 @@
+.body {
+    align-content: flex-end;
+}
+
+.footer-newgame {
+    margin-top: 50px;
+    color: white;
+    justify-content: flex-end;
+    bottom: 0;
+    width: 100%;
+    padding-right: 10px;
+    padding-top: 10px;
+    display: flex;
+    background-image: linear-gradient(to right, rgba(33, 47, 32, 0.3), rgba(33, 47, 32, 0.95));
+    height: 100px;
+}
+
+.footer-button {
+    margin-top: 15px;
+    margin-right: 15px;
+    height: 50px;
+    align-content: center;
+    border-radius: 10%;
+    font-weight:500;
+}
